@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": [
+      {"bold":false,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"> apply_langpack.sh  ","color":"#00ff00"},
+      {"bold":false,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"Segmentation fault (core dumped)    ","color":"#ff5555"},
+      {"bold":false,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"by BG4JTS for 1.21.1","color":"#5900ff"}
+    ]
+  }
+}
